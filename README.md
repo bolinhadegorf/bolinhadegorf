@@ -1,3 +1,4 @@
+SOBRE MIM
 - 👋 Olá meu nome é @bolinhadegorf
 - 👍 meu email de contato é julia.fiorida.silveira@escola.pr.gov.br
 - 👀 Eu estou interessada em aprender a programar outras linguagens 
